@@ -30,7 +30,7 @@ A Laravel 12 RESTful API for uploading CSV files, validating and parsing their c
 ## 📦 Installation
 
 ```bash
-git clone <your-repo-url> laravel-csv-api
+git clone git@github.com:prateeik/laravel-csv-api.git laravel-csv-api
 cd laravel-csv-api
 composer install
 cp .env.example .env
